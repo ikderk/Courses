@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-image:"http://www.thecitydrivegroup.com/portals/5/Images/film%20roll.jpg";
+	background-repeat: no-repeat;
+	background-position: right;
+	background-attachment:fixed;
+}
